@@ -1,0 +1,78 @@
+﻿l_spanish:
+
+ #######################################################################################################################################################################
+ #
+ # ATTENTION MOD TRANSLATORS:
+ # Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
+ # There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
+ # DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
+ # If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
+ # If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
+ #
+ # Localisation Update Log: Mod Version 3.1.0
+ #
+ # NEW:
+ # CHANGED:	45
+ # DELETED:
+ # FIXED:
+ #
+ #######################################################################################################################################################################
+
+
+ ####################################
+ # Events
+ ####################################
+
+ captainx3.1.name: "Flagship Launched"
+ captainx3.1.desc: "After working tirelessly for years, your people have finally finished construction of the §YFlagship§!, the pride of your fleet!\n\nHowever, the massive expenditure of resources and time required to build it took a heavy toll on your empire.\n\n§PBecause of the overwhelming costs, your workers will strike if you attempt to build another Flagship, and the project will never be completed.§!"
+
+ captainx3.2.name: "Flagship Lost"
+ captainx3.2.desc: "With the loss of your fleet's Flagship, your citizens have offered their full support for construction of a replacement at your discretion."
+
+ captainx3.4.name: "Mining Base Bonus Received"
+ captainx3.4.desc: "After months of dangerous work, we have finally built our first mining base! This base boosts the mineral production of the colonies of the system it is in by 100% and increases our mineral storage capacity by 5000. Our experts say that we can build up to 8 of these bases for a 100% mineral production bonus in each system and 40000 additional mineral storage. Remember that only one base per colonized system will produce the bonus."
+
+ captainx3.5.name: "Mining Base Limit Reached"
+ captainx3.5.desc: "We have built a total of 8 mining bases and reached our maximum potential production bonus. Building additional bases will cause the maintenance costs to skyrocket out of control."
+
+ captainx3.6.name: "Power Station Bonus Received"
+ captainx3.6.desc: "After months of dangerous work, we have finally built our first power station! This base boosts the energy production of the colonies of the system it is in by 100% and increases our energy storage capacity by 5000. Our experts say that we can build up to 8 of these bases for a 100% energy production bonus in each system and 40000 additional energy storage. Remember that only one base per colonized system will produce the bonus."
+
+ captainx3.7.name: "Power Station Limit Reached"
+ captainx3.7.desc: "We have built a total of 8 power stations and reached our maximum potential production bonus. Building additional bases will cause the maintenance costs to skyrocket out of control."
+
+ captainx3.8.name: "Headquarters Completed"
+ captainx3.8.desc: "After working tirelessly, your people have finally finished construction of the §YHeadquarters Station§!, the command center for your fleet.\n\nHowever, the massive expenditure of resources and time required to build it took a heavy toll on your empire.\n\n§PBecause of the overwhelming costs, your workers will strike if you attempt to build another HQ station, and the project will never be completed.§!\n\nYou can §Bmove the Headquarters§! to a new solar system using a planet edict on colonized planets."
+
+ captainx3.9.name: "Headquarters Lost"
+ captainx3.9.desc: "With the loss of your Headquarters, your citizens have offered their full support for construction of a replacement at your discretion."
+
+ flagship_bonus: "Flagship Inspired Fleet"
+ headquarters_bonus: "Centralized Command"
+
+ edict_nsc_move_hq: "Move Headquarters Here"
+ # Shown when the project can not be completed
+ edict_nsc_move_hq_desc: " " # Space prevents silly error.log message
+ edict_nsc_move_hq_tooltip: "Engages the Headquarters Stations jump FTL drive to orbit §Y[Root.GetName]§!.\n\n§RMake sure you only have one available design for the Headquarters Station.§!"
+
+ miningbase_bonus1: "Mining Base Bonus Level 1"
+ miningbase_bonus2: "Mining Base Bonus Level 2"
+ miningbase_bonus3: "Mining Base Bonus Level 3"
+ miningbase_bonus4: "Mining Base Bonus Level 4"
+ miningbase_bonus5: "Mining Base Bonus Level 5"
+ miningbase_bonus6: "Mining Base Bonus Level 6"
+ miningbase_bonus7: "Mining Base Bonus Level 7"
+ miningbase_bonus8: "Mining Base Bonus Level 8"
+ powerstation_bonus1: "Power Station Bonus Level 1"
+ powerstation_bonus2: "Power Station Bonus Level 2"
+ powerstation_bonus3: "Power Station Bonus Level 3"
+ powerstation_bonus4: "Power Station Bonus Level 4"
+ powerstation_bonus5: "Power Station Bonus Level 5"
+ powerstation_bonus6: "Power Station Bonus Level 6"
+ powerstation_bonus7: "Power Station Bonus Level 7"
+ powerstation_bonus8: "Power Station Bonus Level 8"
+
+ miningbase_final: "Too Many Mining Bases"
+ powerstation_final: "Too Many Power Stations"
+
+ mansion_limit: "Corruption (Too Many Mansions)"

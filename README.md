@@ -5,4 +5,4 @@ Steam Workshop Link: http://steamcommunity.com/sharedfiles/filedetails/?id=90280
 
 WIP:
 
-[[http://i.imgur.com/Ul6N96P.jpg]]
+![](http://i.imgur.com/Ul6N96P.jpg|alt=stellaris)

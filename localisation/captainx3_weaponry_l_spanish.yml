@@ -24,29 +24,29 @@
  ###################################
 
 
- LARGE_ENERGY_LANCE_HQ: "Graviton Lance"
- LARGE_ENERGY_LANCE_HQ_DESC: "The most powerful version of the particle lance, this weapon fires a graviton beam of immense power."
+ LARGE_ENERGY_LANCE_HQ: "Lanza Gravitón"
+ LARGE_ENERGY_LANCE_HQ_DESC: "La versión más potente de la lanza de partículas, esta arma dispara un haz gravitón de inmenso poder."
 
- LARGE_ARC_EMITTER_HQ: "Pulsated Arc Emitter"
- LARGE_ARC_EMITTER_HQ_DESC: "These top-tier emitters are equipped with the most advanced lenses, resulting in the most powerful energy discharge possible."
+ LARGE_ARC_EMITTER_HQ: "Emisor de Arco Pulsado"
+ LARGE_ARC_EMITTER_HQ_DESC: "Estos emisores de nivel superior están equipados con las lentes más avanzadas, lo que resulta en la descarga de energía más potente posible."
 
- LARGE_MASS_ACCELERATOR_HQ: "Ultra Cannon"
- LARGE_MASS_ACCELERATOR_HQ_DESC: "The ultimate variant of spinal-mounted kinetic artillery."
+ LARGE_MASS_ACCELERATOR_HQ: "Ultra Cañón"
+ LARGE_MASS_ACCELERATOR_HQ_DESC: "La última variante de artillería cinética."
 
- ENERGY_LANCE_HQ: "Graviton Lance"
- ENERGY_LANCE_HQ_DESC: "The most powerful version of the particle lance, this weapon fires a graviton beam of immense power."
+ ENERGY_LANCE_HQ: "Lanza Gravitón"
+ ENERGY_LANCE_HQ_DESC: "La versión más potente de la lanza de partículas, esta arma dispara un haz gravitón de inmenso poder."
 
- ARC_EMITTER_HQ: "Pulsated Arc Emitter"
- ARC_EMITTER_HQ_DESC: "These top-tier emitters are equipped with the most advanced lenses, resulting in the most powerful energy discharge possible."
+ ARC_EMITTER_HQ: "Emisor de Arco Pulsado"
+ ARC_EMITTER_HQ_DESC: "Estos emisores de nivel superior están equipados con las lentes más avanzadas, lo que resulta en la descarga de energía más potente posible."
 
- MASS_ACCELERATOR_HQ: "Ultra Cannon"
- MASS_ACCELERATOR_HQ_DESC: "The ultimate variant of spinal-mounted kinetic artillery."
+ MASS_ACCELERATOR_HQ: "Ultra Cañón"
+ MASS_ACCELERATOR_HQ_DESC: "La última variante de artillería cinética."
 
- FRIGATE_FLAK_BATTERY_1: "Frigate Flak Battery"
- FRIGATE_FLAK_BATTERY_1_DESC: "A specialized Flak Battery specifically designed for the Frigate's point defense role."
+ FRIGATE_FLAK_BATTERY_1: "Batería Anti-Aérea de Fragata"
+ FRIGATE_FLAK_BATTERY_1_DESC: "Una batería especializada Anti-Aérea diseñada específicamente para el papel de defensa de la Fragata."
 
- FRIGATE_FLAK_BATTERY_2: "Frigate Flak Artillery"
- FRIGATE_FLAK_BATTERY_2_DESC: "A specialized Flak Artillery Battery specifically designed for the Frigate's point defense role."
+ FRIGATE_FLAK_BATTERY_2: "Batería de Artillería de Fragata"
+ FRIGATE_FLAK_BATTERY_2_DESC: "Una batería especializada de Artillería diseñada específicamente para el papel de defensa de la Fragata."
 
- FRIGATE_FLAK_BATTERY_3: "Frigate Flak Howitzer"
- FRIGATE_FLAK_BATTERY_3_DESC: "A unique Flak Artillery Howitzer specifically designed for the Frigate's defensive role."
+ FRIGATE_FLAK_BATTERY_3: "Batería de Obús de Fragata"
+ FRIGATE_FLAK_BATTERY_3_DESC: "Una batería Obús única diseñada específicamente para el papel de defensa de la Fragata."

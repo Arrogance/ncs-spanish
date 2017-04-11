@@ -21,14 +21,14 @@
  ####################################
  # BUILDINGS
  ####################################
- building_governors_mansion: "Governor's Mansion"
- building_governors_mansion_desc: "An extremely luxurious and expensive mansion for your planetary Governor."
+ building_governors_mansion: "Mansión del Gobernador"
+ building_governors_mansion_desc: "Una extremadamente lujosa y cara mansión para tu Gobernador planetario."
 
- building_science_center_1: "Research Initiative Center"
- building_science_center_1_desc: "A newly developed research center to bring together the brightest minds of the Empire in order to develop our research faster."
- building_science_center_2: "Education & Learning Center"
- building_science_center_2_desc: "After learning much from the initial trials and errors of the original center, this learning center has been upgraded with better management and more space, allowing for faster research speeds and more tech alternatives."
- building_science_center_3: "Research & Development Center"
- building_science_center_3_desc: "After many years of learning experiances, the new R&D Center is now more specialized towards research collaboration and sharing of knowledge, making research times even faster, along with even more options."
- building_science_center_4: "Science & Technology Center"
- building_science_center_4_desc: "After decades of collaborations, trials, errors, and successes, this state-of-the-art, ultra specialized building allows for the most cooperation between all research departments with more access and resources than ever before, giving you the most research alteratives and excellent research times."
+ building_science_center_1: "Centro de Iniciativa de Investigación"
+ building_science_center_1_desc: "Un nuevo centro de investigación enfocado a unir a las mentes más brillantes de nuestro imperio con el fin de aumentar nuestra tasa de investigación."
+ building_science_center_2: "Centro de Educación y Enseñanza"
+ building_science_center_2_desc: "Después de aprender mucho sobre los fallos del centro original, este centro de enseñanza ha sido actualizado con una mejor gestión y más espacio, aumentando nuestra velocidad de investigación y más alternativas tecnológicas."
+ building_science_center_3: "Centro de Investigación y Desarrollo"
+ building_science_center_3_desc: "Tras años de experiencia, el nuevo centro de I+D está ahora más especializado a investigaciones colaborativas y a compartir conocimientos, mejorando aún más nuestra velocidad de investigación, además de aún más opciones."
+ building_science_center_4: "Centro de Ciencia y Tecnología"
+ building_science_center_4_desc: "Después de décadas de colaboraciones, pruebas y errores, y éxitos, este ultra especializado centro ofrece la mejor colaboración entre todos los departamentos de investigación, con más accesos y recursos que nunca, ofreciendo la mayoría de las alternativas de la investigación y de los tiempos excelentes de investigación."

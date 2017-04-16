@@ -1,22 +1,22 @@
 ﻿l_spanish:
 
- #######################################################################################################################################################################
- #
- # ATTENTION MOD TRANSLATORS:
- # Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
- # There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
- # DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
- # If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
- # If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
- #
- # Localisation Update Log: Mod Version 3.1.0
- #
- # NEW:
- # CHANGED:	45
- # DELETED:
- # FIXED:
- #
- #######################################################################################################################################################################
+#######################################################################################################################################################################
+#
+# ATTENTION MOD TRANSLATORS:
+# Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
+# There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
+# DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
+# If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
+# If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
+#
+# Localisation Update Log: Mod Version 3.1.0
+#
+# NEW:
+# CHANGED:	45
+# DELETED:
+# FIXED:
+#
+#######################################################################################################################################################################
 
 
  ####################################
@@ -24,7 +24,7 @@
  ####################################
 
  captainx3.1.name: "Flagship Launched"
- captainx3.1.desc: "After working tirelessly for years, your people have finally finished construction of the §YFlagship§!, the pride of your fleet!\n\nHowever, the massive expenditure of resources and time required to build it took a heavy toll on your empire.\n\n§PBecause of the overwhelming costs, your workers will strike if you attempt to build another Flagship, and the project will never be completed.§!"
+ captainx3.1.desc: "After working tirelessly for years, your people have finally finished construction of the §YFlagship§!, the pride of your fleet!\n\nHowever, the massive expenditure of resources and time required to build it took a heavy toll on your empire.\n\n§PBecause of the overwhelming costs, your workers will strike if you attempt to build another Flagship. When you finish the second Flagship, the first Flagship will be removed, and any ships in the fleet with it will also be removed. Do not build a second.§!"
 
  captainx3.2.name: "Flagship Lost"
  captainx3.2.desc: "With the loss of your fleet's Flagship, your citizens have offered their full support for construction of a replacement at your discretion."
@@ -76,3 +76,8 @@
  powerstation_final: "Too Many Power Stations"
 
  mansion_limit: "Corruption (Too Many Mansions)"
+
+ nscflag.1.name: "NSC Advanced Player Challenge"
+ nscflag.1.desc: "This event message is given to the player (or one random player in multiplayer) to decide for all human players in the game if they want to use this option to enhance the AI further.\n\nIf activated, at the start of every new year, the game will check the status of the player's technology level and if they player has gained a new tech that gives them access to a new ship class, §Yall regular AI empires§! will be given the same technology, so there is no excuse for the AI not keeping up with the player in regard to ship classes. If you wish to have the AI keep up with you immediately for a little extra challenge, this is the event to activate. Make your choice below.\n\n§RWARNING! Once you make your choice it cannot be undone for the rest of this campaign. Choose carefully. You have been warned!"
+ nscflagchoice.1.a: "Bring it on!"
+ nscflagchoice.1.b: "No thanks, I'm good."

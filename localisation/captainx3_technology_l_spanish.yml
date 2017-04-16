@@ -1,22 +1,22 @@
 ﻿l_spanish:
 
- #######################################################################################################################################################################
- #
- # ATTENTION MOD TRANSLATORS:
- # Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
- # There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
- # DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
- # If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
- # If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
- #
- # Localisation Update Log: Mod Version 5.0.0
- #
- # NEW: 		62-63, 81-82
- # CHANGED:
- # DELETED:
- # FIXED:
- #
- #######################################################################################################################################################################
+#######################################################################################################################################################################
+#
+# ATTENTION MOD TRANSLATORS:
+# Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
+# There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
+# DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
+# If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
+# If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
+#
+# Localisation Update Log: Mod Version 5.0.0
+#
+# NEW: 		62-63, 81-82
+# CHANGED:
+# DELETED:
+# FIXED:
+#
+#######################################################################################################################################################################
 
 
  ####################################
@@ -170,6 +170,8 @@
  tech_arc_emitter_NSC_desc: "These upgraded emitters are equipped with supercharged focusing lenses, resulting in a pulsated, ultra powerful energy discharge."
  tech_mass_accelerator_NSC: "Ultra Cannon"
  tech_mass_accelerator_NSC_desc: "An even more powerful mass accelerator optimized for ultimate acceleration and projectile spin, these heavy artillery cannons can hurl the ultimate explosive destruction from extreme ranges."
+ tech_kinetic_artillery_nsc: "Kinetic Barrage"
+ tech_kinetic_artillery_nsc_desc: "An even more powerful kinetic cannon optimized for ultimate acceleration and projectile spin, these heavy artillery cannons barrage enemies for immense damage within range."
 
  TECH_UNLOCK_FLAKGUN_3_CONSTRUCTION_TITLE: "Flak Howitzer"
  TECH_UNLOCK_FLAKGUN_3_CONSTRUCTION_DESC: "A new unique Flak gun designed specifically to support the Frigate's point defense role, this top-tier Flak Howitzer offers the best defense against strike craft and missiles."
@@ -179,6 +181,8 @@
  TECH_UNLOCK_ARC_EMITTER_NSC_CONSTRUCTION_DESC: "These upgraded emitters are equipped with supercharged focusing lenses, resulting in a pulsated, ultra powerful energy discharge."
  TECH_UNLOCK_MASS_ACCELERATOR_NSC_CONSTRUCTION_TITLE: "Ultra Cannon"
  TECH_UNLOCK_MASS_ACCELERATOR_NSC_CONSTRUCTION_DESC: "An even more powerful mass accelerator optimized for ultimate acceleration and projectile spin, these heavy artillery cannons can hurl the ultimate explosive destruction from extreme ranges."
+ TECH_UNLOCK_KINETIC_ARTILLERY_NSC_CONSTRUCTION_TITLE: "Kinetic Barrage"
+ TECH_UNLOCK_KINETIC_ARTILLERY_NSC_CONSTRUCTION_DESC: "An even more powerful kinetic cannon optimized for ultimate acceleration and projectile spin, these heavy artillery cannons barrage enemies for immense damage within range."
 
  tech_corvette_upgrades_1: "Corvette Upgrades"
  tech_corvette_upgrades_1_desc: "As our ship building capabilities continue to increase, we need to ensure that our smaller vessels still have the ability to deal damage against these larger capital ships. This advanced layout should help."

@@ -1,24 +1,5 @@
 ﻿l_spanish:
 
- #######################################################################################################################################################################
- #
- # ATTENTION MOD TRANSLATORS:
- # Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
- # There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
- # DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
- # If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
- # If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
- #
- # Localisation Update Log: Mod Version 3.0.15
- #
- # NEW:
- # CHANGED:	27, 28, 30, 31, 33, 34, 36, 37, 39, 40, 42, 43
- # DELETED:
- # FIXED:
- #
- #######################################################################################################################################################################
-
-
  ###################################
  # New Weapons
  ###################################
@@ -50,3 +31,9 @@
 
  FRIGATE_FLAK_BATTERY_3: "Batería de Obús de Fragata"
  FRIGATE_FLAK_BATTERY_3_DESC: "Una batería Obús única diseñada específicamente para el papel de defensa de la Fragata."
+
+ CRUISE_MISSILES: "Cruise Missile"
+ CRUISE_MISSILES_DESC: "A long range first strike weapon that is capable of doing massive damage, but is susceptible to point defense fire."
+
+ NSC_LARGE_CRUISE_MISSILE_1: "Tomahawk Cruise Missile"
+ NSC_LARGE_CRUISE_MISSILE_1_DESC: "A long range first strike weapon that is capable of doing massive damage, but is susceptible to point defense fire."

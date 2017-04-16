@@ -1,22 +1,22 @@
 ﻿l_spanish:
 
- #######################################################################################################################################################################
- #
- # ATTENTION MOD TRANSLATORS:
- # Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
- # There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
- # DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
- # If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
- # If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
- #
- # Localisation Update Log: Mod Version 3.0.10
- #
- # NEW:
- # CHANGED:
- # DELETED:
- # FIXED:	Deleted all :0 and :1, replacing them with just : since they are not required and are not proper syntax.
- #
- #######################################################################################################################################################################
+#######################################################################################################################################################################
+#
+# ATTENTION MOD TRANSLATORS:
+# Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
+# There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
+# DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
+# If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
+# If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
+#
+# Localisation Update Log: Mod Version 3.0.10
+#
+# NEW:
+# CHANGED:
+# DELETED:
+# FIXED:	Deleted all :0 and :1, replacing them with just : since they are not required and are not proper syntax.
+#
+#######################################################################################################################################################################
 
 
  ####################################
@@ -56,3 +56,11 @@
  nsc_hq_buildtime_desc: "Only one HQ station allowed."
  nsc_flagship_buildtime: "Flagship Limit"
  nsc_flagship_buildtime_desc: "Only one Flagship allowed."
+
+ nsc_flagship_bonus: "Flagship Empire Bonus"
+ nsc_headquarters_bonus: "Headquarters Empire Bonus"
+
+ #Modifiers
+
+ built_world: "Megastructure World"
+ built_world_desc: "This world has been constructed to be 100% habitable, making it ideally suited for any species."

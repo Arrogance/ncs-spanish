@@ -1,22 +1,22 @@
 ﻿l_spanish:
 
- #######################################################################################################################################################################
- #
- # ATTENTION MOD TRANSLATORS:
- # Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
- # There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
- # DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
- # If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
- # If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
- #
- # Localisation Update Log: Mod Version 3.0.10
- #
- # NEW: 		170, 181, 408-411
- # CHANGED:
- # DELETED:
- # FIXED:
- #
- #######################################################################################################################################################################
+#######################################################################################################################################################################
+#
+# ATTENTION MOD TRANSLATORS:
+# Each time this file is updated, listed in this commented out box will be a listing of all localisation file changes with the mod version it's for at the top.
+# There there will be NEW or CHANGED that tells you want happened to each line in this file. Example: you'll see "NEW: 1, 2, 3..." which tells you which lines are new.
+# DELETED lines will be given in full to make sure you know exactly what to delete since it won't be in this version of the file.
+# If a change to this file isn't included in the NEW/CHANGED/DELETE anywhere, then it's "FIXED" for the reference coding (the blue wording that comes first).
+# If the NEW/CHANGED/DELETED/FIXED lines are completely blank, there are ZERO changes in localisation for that release.
+#
+# Localisation Update Log: Mod Version 3.0.10
+#
+# NEW: 		170, 181, 408-411
+# CHANGED:
+# DELETED:
+# FIXED:
+#
+#######################################################################################################################################################################
 
 
  ####################################
@@ -30,6 +30,7 @@
  # Frigate
  ####################################
  Frigate_BOW_M1S2: "Picket Ship Bow"
+ Frigate_BOW_M1S2_1: "Torpedo Ship Bow"
  Frigate_BOW_S3_1: "Point Defense Bow"
  Frigate_BOW_S3_2: "Pinpoint Bow"
 
@@ -337,9 +338,9 @@
  Flagship_STERN_S4_3: "Volley Stern"
 
 
- ####################################
- # Defense Platform
- ####################################
+####################################
+# Defense Platform
+####################################
 
  LIGHT_PLATFORM_SMALL_MILITARY_STATION_SECTION: "Small Platform"
  LIGHT_PLATFORM_POINT_DEFENSE_MILITARY_STATION_SECTION: "Point Defense Platform"
@@ -349,9 +350,9 @@
  HEAVY_MILITARY_STATION_SECTION: "Heavy Platform"
  HANGAR_PLATFORM_MILITARY_STATION_SECTION: "Hangar Platform"
 
- ####################################
- # Defense Station
- ####################################
+####################################
+# Defense Station
+####################################
 
  LIGHT_DSTATION_SMALL_MILITARY_STATION_SECTION: "Small Platform"
  LIGHT_DSTATION_POINT_DEFENSE_MILITARY_STATION_SECTION: "Point Defense Platform"
@@ -362,9 +363,9 @@
  HEAVY_DSTATION_LARGE_MILITARY_STATION_SECTION: "Heavy Platform"
  HANGAR_DSTATION_MILITARY_STATION_SECTION: "Hangar Platform"
 
- ####################################
- # Fortress
- ####################################
+####################################
+# Fortress
+####################################
 
  LIGHT_LSTATION_SMALL_MILITARY_STATION_SECTION: "Small Platform"
  LIGHT_LSTATION_POINT_DEFENSE_MILITARY_STATION_SECTION: "Point Defense Platform"
@@ -375,9 +376,9 @@
  HEAVY_LSTATION_LARGE_MILITARY_STATION_SECTION: "Heavy Platform"
  HANGAR_LSTATION_MILITARY_STATION_SECTION: "Hangar Platform"
 
- ####################################
- # Battle Fortress
- ####################################
+####################################
+# Battle Fortress
+####################################
 
  LIGHT_SMALL_MILITARY_STATION_XLARGE_SECTION: "Small Platform"
  LIGHT_POINT_DEFENSE_MILITARY_STATION_XLARGE_SECTION: "Point Defense Platform"
@@ -388,9 +389,9 @@
  HEAVY_MILITARY_STATION_XLARGE_SECTION: "Heavy Platform"
  HANGAR_MILITARY_STATION_XLARGE_SECTION: "Hangar Platform"
 
- ####################################
- # Other Stations
- ####################################
+####################################
+# Other Stations
+####################################
 
  OUTPOST_STATION_SECTION_1: "Frontier Outpost (Tier 1)"
  OUTPOST_STATION_SECTION_2: "Frontier Outpost (Tier 2)"

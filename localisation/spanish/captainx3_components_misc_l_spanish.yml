@@ -24,24 +24,24 @@
  ####################################
 
 
- SHIP_AURA_SHIELDS: "Shield Recharge Field"
- SHIP_AURA_FIRING: "Integrated Fleet Network"
- SHIP_AURA_DAMAGE: "Enhanced Targeting Field"
+ SHIP_AURA_SHIELDS: "Campo de recarga de escudos"
+ SHIP_AURA_FIRING: "Red de flota integrada"
+ SHIP_AURA_DAMAGE: "Campo de orientación mejorado"
 
- SHIP_SENSOR_5: "EWAR Sensor Array"
- STATION_SENSOR_5: "EWAR Sensor Array"
- SHIP_SENSOR_EMPTY: "Empty Slot"
+ SHIP_SENSOR_5: "Matriz de sensores de Guerra Electrónica"
+ STATION_SENSOR_5: "Matriz de sensores de Guerra Electrónic"
+ SHIP_SENSOR_EMPTY: "Espacio vacío"
 
- SC_DEFENSE_AURA: "Automated Defense System"
- STATION_REPAIR_AURA: "Automated Ship Repair System"
+ SC_DEFENSE_AURA: "Sistema de defensa automática"
+ STATION_REPAIR_AURA: "Sistema automático de reparación"
 
- NSC_AURA_EMPTY: "Empty Slot"
- SC_DEFENSE_AURA_EMPTY: "Empty Slot"
- SPECIAL_SLOT_EMPTY: "Empty Slot"
- special_ship_slot: "Special Component"
- special_ship_slot_desc: "A special component slot."
+ NSC_AURA_EMPTY: "Espacio vacío"
+ SC_DEFENSE_AURA_EMPTY: "Espacio vacío"
+ SPECIAL_SLOT_EMPTY: "Espacio vacío"
+ special_ship_slot: "Componente especial"
+ special_ship_slot_desc: "Espacio para un componente especial."
 
- SPECIAL_SLOT_MULTIPHASIC_SENSORS: "Multiphasic Sensors"
+ SPECIAL_SLOT_MULTIPHASIC_SENSORS: "Sensores multifásicos"
  SPECIAL_SLOT_MULTIPHASIC_SENSORS_DESC: "Increases sensor range using multiphasic generators."
  SPECIAL_SLOT_DAMAGE_CONTROL: "Damage Control Teams"
  SPECIAL_SLOT_DAMAGE_CONTROL_DESC: "Teams specially trained in rapid ship repair."
@@ -60,12 +60,12 @@
  SPECIAL_SLOT_DEFLECTOR_ARRAY: "Deflector Array"
  SPECIAL_SLOT_DEFLECTOR_ARRAY_DESC: "A large array that is designed to provide additional protection for the ship."
 
- KITCHEN_SINK: "Kitchen Sink"
- KITCHEN_SINK_DESC: "A clean crew is a happy crew."
- STELLAR_CARTOGRAPHY: "Stellar Cartography"
+ KITCHEN_SINK: "Kitchen Sink Fregacero de cocina"
+ KITCHEN_SINK_DESC: "Una tripulación limpia, es una tripulación feliz."
+ STELLAR_CARTOGRAPHY: "Cartografía estelar"
  STELLAR_CARTOGRAPHY_DESC: "A large system used for mapping surrounding space."
- NAVIGATIONAL_ARRAY: "Navigational Array"
- NAVIGATIONAL_ARRAY_DESC: "An advanced 3D navigational system."
+ NAVIGATIONAL_ARRAY: "Matriz navigacional"
+ NAVIGATIONAL_ARRAY_DESC: "Un avanzado sistema de navegación 3D."
 
  SPECIAL_SLOT_KITCHEN_SINK: "Kitchen Sink"
  SPECIAL_SLOT_KITCHEN_SINK_DESC: "A clean crew is a happy crew."
@@ -93,10 +93,10 @@
  ####################################
 
 
- UNDERSTOOD: "Understood."
+ UNDERSTOOD: "Entendido."
 
- sm_customs_office: "Customs Office"
- sm_customs_office_desc: "\n\n The Customs Office provides better protection and control of your empire's borders, while slowing down migration and having a suspiciously high maintenance bill.\n\n"
+ sm_customs_office: "Oficina de Aduanas"
+ sm_customs_office_desc: "\n\n La Oficina de Aduanas ofrece una mejor protección y control de las fronteras del imperio, mientras que relentiza la migración y tiene un coste operativo sospechosamente alto.\n\n"
 
  shipclass_orbital_station_hit_points_mult: "Spaceport Hit Points"
  shipsize_military_station_xlarge_upkeep_mult: "Battle Fortress Upkeep"

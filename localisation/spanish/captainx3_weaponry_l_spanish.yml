@@ -32,8 +32,8 @@
  FRIGATE_FLAK_BATTERY_3: "Batería de Obús de Fragata"
  FRIGATE_FLAK_BATTERY_3_DESC: "Una batería Obús única diseñada específicamente para el papel de defensa de la Fragata."
 
- CRUISE_MISSILES: "Cruise Missile"
- CRUISE_MISSILES_DESC: "A long range first strike weapon that is capable of doing massive damage, but is susceptible to point defense fire."
+ CRUISE_MISSILES: "Misil de Crucero"
+ CRUISE_MISSILES_DESC: "Un arma de ataque de largo alcance que es capaz de hacer daño masivo, pero suceptible a contramedidas."
 
- NSC_LARGE_CRUISE_MISSILE_1: "Tomahawk Cruise Missile"
- NSC_LARGE_CRUISE_MISSILE_1_DESC: "A long range first strike weapon that is capable of doing massive damage, but is susceptible to point defense fire."
+ NSC_LARGE_CRUISE_MISSILE_1: "Misil de Crucero Tomahawk"
+ NSC_LARGE_CRUISE_MISSILE_1_DESC: "Un arma de ataque de largo alcance que es capaz de hacer daño masivo, pero suceptible a contramedidas."
